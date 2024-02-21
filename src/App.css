@@ -3,19 +3,20 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color:white;
+  background-color: white;
 }
 
 .box-container {
   padding: 30px;
   border-radius: 10px;
-  background: linear-gradient(135deg,#00feba,#5b548a);
+  background: linear-gradient(135deg, #00feba, #5b548a);
 
 }
 
 .container {
   margin: 5px;
 }
+
 .container h1 {
   text-align: center;
   margin-top: 0;
@@ -47,10 +48,12 @@
   margin: 5px;
 
 }
-.btn input[type="button"]:hover{
+
+.btn input[type="button"]:hover {
   background-color: aqua;
   color: black;
 }
-form .btn input.Eq{
+
+form .btn input.Eq {
   width: 110px;
 }
